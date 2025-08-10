@@ -1,0 +1,14 @@
+gisaid_country	flunet_country	accuracy_score	match_type
+netherlands antilles	netherlands (kingdom of the)	25.0	low_accuracy
+svalbard and jan mayen	antigua and barbuda	33.33333333333333	low_accuracy
+solomon islands	cayman islands	50.0	low_accuracy
+aland islands	cayman islands	50.0	low_accuracy
+northern mariana islands	cayman islands	50.0	low_accuracy
+cocos (keeling) islands	cayman islands	50.0	low_accuracy
+wallis and futuna	antigua and barbuda	33.33333333333333	low_accuracy
+faroe islands	cayman islands	50.0	low_accuracy
+french polynesia	french guiana	50.0	low_accuracy
+isle of man	republic of moldova	33.33333333333333	low_accuracy
+cook islands	cayman islands	50.0	low_accuracy
+falkland islands (islas malvinas)	cayman islands	50.0	low_accuracy
+libyan arab jamahiriya	syrian arab republic	33.33333333333333	low_accuracy

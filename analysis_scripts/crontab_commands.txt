@@ -1,0 +1,44 @@
+# Syntax of Crontab
+    MIN HOUR DOM MON DOW CMD
+    Desc. (in order) = Minute - Hour - Day of the Month - Day of the Week - Command
+    * * * * * command 
+
+# Check the Crontab's availability
+    systemctl status cron
+    # should say 'Active: active (running)
+    $ crontab -l 
+    $ crontab -e -> edit mode 
+    $ echo $EDITOR (should have vim) | to change --> # export $EDITOR=nano 
+    # When selecting an editor, chose [1] /bin/nano --> the easiest
+    OR $ sudo crontab -u root -e (might need permisssion, cannot) -- need to log in as the root to directly run the automated command
+
+    $ crontab -u [username] -l 
+
+    # Check the Logs:
+        $ sudo cat /var/log/syslog | grep cron
+        $ sudo cat /var/log/syslog | grep CRON
+
+# Task automation (to run Python's script)
+    $ crontab -e (then insert, by clicking 'enter' button)
+    * * * * * python ~[insert the Python's file directory]
+    
+# $conda env list (list down the virtual environment - must specify the path of the virtual environment)
+    i.e. using the ~/opt/miniconda3/envs/py38/bin/python ~ [python.py]
+        # python3 -m venv venv
+        # . venv/bin/activate
+        # pip install request
+
+# Example: Scheduling a Cron Job
+    $ @monthly [Python's script path] --> scheduled for the beginning of every month
+    $ @daily [Python's script path] --> scheduled for a background job every day (daily log file cleanup)
+
+# Press 'ESC' and enter ':wq' -> to save and exit
+0 0 1 * * python ~[script_path] -> for monthly automation
+# crontab -r (to remove/clean the crontab's saved history)
+
+(MONTHLY, 00:00 on 1st August, 1st September, etc) 0 0 1 * * /opt/miniconda3/bin/python3 /Users/willnath/Desktop/analysis_scripts/testcrontab.py
+(WEEKLY, 00:00 on the next Monday) 0 0 * * 1 /opt/miniconda3/bin/python3 /Users/willnath/Desktop/analysis_scripts/testcrontab.py
+
+* * * * * /opt/miniconda3/bin/python3 /Users/willnath/Desktop/analysis_scripts/trial_documented_revised_all_country_script.py >> /Users/willnath/Desktop/analysis_scripts/cron_output.log 2>&1
+
+* * * * * /opt/miniconda3/bin/python3 /Users/willnath/Desktop/analysis_scripts/testcrontab.py

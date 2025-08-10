@@ -1,0 +1,80 @@
+================================================================================
+WEIGHTED LOCATION TRENDS ANALYSIS REPORT
+================================================================================
+
+Data Source Information:
+  Source: Pre-Smoothed Data
+  Note: No additional smoothing applied by this plotter
+  Smoothing: Applied during data processing in final_revised_all_country_script.py
+
+Total subtypes analyzed: 6
+Total unique countries: 163
+
+SUBTYPE ANALYSIS (Original vs Smoothed):
+--------------------------------------------------
+
+BVIC:
+  Countries: 152
+  Original - Mean: 2.147 ± 5.113
+  Smoothed - Mean: 2.097 ± 4.972
+  Average volatility reduction: 3.661
+  Smoothing effectiveness: 48.0% volatility reduction
+  Most smoothed countries:
+    argentina: 54.5% volatility reduction
+    canada: 56.0% volatility reduction
+    norway: 43.3% volatility reduction
+
+AH3:
+  Countries: 156
+  Original - Mean: 2.849 ± 5.999
+  Smoothed - Mean: 2.878 ± 6.201
+  Average volatility reduction: 4.343
+  Smoothing effectiveness: 47.4% volatility reduction
+  Most smoothed countries:
+    iran: 55.8% volatility reduction
+    malaysia: 42.6% volatility reduction
+    china: 32.0% volatility reduction
+
+AH7N9:
+  Countries: 4
+  Original - Mean: 0.002 ± 0.003
+  Smoothed - Mean: 0.002 ± 0.003
+  Average volatility reduction: 0.007
+  Smoothing effectiveness: 57.0% volatility reduction
+  Most smoothed countries:
+    china: 57.0% volatility reduction
+    canada: 0.0% volatility reduction
+    malaysia: 0.0% volatility reduction
+
+AOTHER_SUBTYPE:
+  Countries: 43
+  Original - Mean: 0.001 ± 0.004
+  Smoothed - Mean: 0.001 ± 0.003
+  Average volatility reduction: 0.004
+  Smoothing effectiveness: 59.1% volatility reduction
+  Most smoothed countries:
+    lebanon: 59.1% volatility reduction
+    vietnam: 58.8% volatility reduction
+    argentina: 0.0% volatility reduction
+
+AH1N12009:
+  Countries: 161
+  Original - Mean: 3.227 ± 7.855
+  Smoothed - Mean: 3.167 ± 7.568
+  Average volatility reduction: 5.984
+  Smoothing effectiveness: 48.9% volatility reduction
+  Most smoothed countries:
+    china: 45.2% volatility reduction
+    iran: 46.2% volatility reduction
+    mexico: 49.5% volatility reduction
+
+BYAM:
+  Countries: 146
+  Original - Mean: 1.335 ± 2.697
+  Smoothed - Mean: 1.349 ± 2.708
+  Average volatility reduction: 2.790
+  Smoothing effectiveness: 44.4% volatility reduction
+  Most smoothed countries:
+    denmark: 47.9% volatility reduction
+    slovenia: 54.5% volatility reduction
+    estonia: 42.7% volatility reduction

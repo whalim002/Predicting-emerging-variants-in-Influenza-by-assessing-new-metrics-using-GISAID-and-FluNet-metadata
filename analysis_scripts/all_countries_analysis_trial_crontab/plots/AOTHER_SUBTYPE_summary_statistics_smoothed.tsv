@@ -1,0 +1,87 @@
+subtype	country	data_type	mean_weighted_location	std_weighted_location	min_weighted_location	max_weighted_location	trend_slope	data_points	smoothing_effect
+AOTHER_SUBTYPE	argentina	original	0.0	0.0	0.0	0.0	0.0	121	0.0
+AOTHER_SUBTYPE	argentina	smoothed	0.0	0.0	0.0	0.0	0.0	121	0.0
+AOTHER_SUBTYPE	australia	original	0.0	0.0	0.0	0.0	0.0	121	0.0
+AOTHER_SUBTYPE	australia	smoothed	0.0	0.0	0.0	0.0	0.0	121	0.0
+AOTHER_SUBTYPE	bangladesh	original	0.0	0.0	0.0	0.0	0.0	121	0.0
+AOTHER_SUBTYPE	bangladesh	smoothed	0.0	0.0	0.0	0.0	0.0	121	0.0
+AOTHER_SUBTYPE	belgium	original	0.0	0.0	0.0	0.0	0.0	121	0.0
+AOTHER_SUBTYPE	belgium	smoothed	0.0	0.0	0.0	0.0	0.0	121	0.0
+AOTHER_SUBTYPE	brazil	original	0.0	0.0	0.0	0.0	0.0	121	0.0
+AOTHER_SUBTYPE	brazil	smoothed	0.0	0.0	0.0	0.0	0.0	121	0.0
+AOTHER_SUBTYPE	cambodia	original	0.0	0.0	0.0	0.0	0.0	121	0.0
+AOTHER_SUBTYPE	cambodia	smoothed	0.0	0.0	0.0	0.0	0.0	121	0.0
+AOTHER_SUBTYPE	canada	original	0.0	0.0	0.0	0.0	0.0	121	0.0
+AOTHER_SUBTYPE	canada	smoothed	0.0	0.0	0.0	0.0	0.0	121	0.0
+AOTHER_SUBTYPE	chile	original	0.0	0.0	0.0	0.0	0.0	121	0.0
+AOTHER_SUBTYPE	chile	smoothed	0.0	0.0	0.0	0.0	0.0	121	0.0
+AOTHER_SUBTYPE	china	original	0.0	0.0	0.0	0.0	0.0	121	0.0
+AOTHER_SUBTYPE	china	smoothed	0.0	0.0	0.0	0.0	0.0	121	0.0
+AOTHER_SUBTYPE	czech republic	original	0.0	0.0	0.0	0.0	0.0	121	0.0
+AOTHER_SUBTYPE	czech republic	smoothed	0.0	0.0	0.0	0.0	0.0	121	0.0
+AOTHER_SUBTYPE	el salvador	original	0.0	0.0	0.0	0.0	0.0	121	0.0
+AOTHER_SUBTYPE	el salvador	smoothed	0.0	0.0	0.0	0.0	0.0	121	0.0
+AOTHER_SUBTYPE	georgia	original	0.0	0.0	0.0	0.0	0.0	121	0.0
+AOTHER_SUBTYPE	georgia	smoothed	0.0	0.0	0.0	0.0	0.0	121	0.0
+AOTHER_SUBTYPE	germany	original	0.0	0.0	0.0	0.0	0.0	121	0.0
+AOTHER_SUBTYPE	germany	smoothed	0.0	0.0	0.0	0.0	0.0	121	0.0
+AOTHER_SUBTYPE	ghana	original	0.0	0.0	0.0	0.0	0.0	121	0.0
+AOTHER_SUBTYPE	ghana	smoothed	0.0	0.0	0.0	0.0	0.0	121	0.0
+AOTHER_SUBTYPE	guatemala	original	0.0	0.0	0.0	0.0	0.0	121	0.0
+AOTHER_SUBTYPE	guatemala	smoothed	0.0	0.0	0.0	0.0	0.0	121	0.0
+AOTHER_SUBTYPE	india	original	0.0	0.0	0.0	0.0	0.0	121	0.0
+AOTHER_SUBTYPE	india	smoothed	0.0	0.0	0.0	0.0	0.0	121	0.0
+AOTHER_SUBTYPE	ireland	original	0.0	0.0	0.0	0.0	0.0	121	0.0
+AOTHER_SUBTYPE	ireland	smoothed	0.0	0.0	0.0	0.0	0.0	121	0.0
+AOTHER_SUBTYPE	italy	original	0.0	0.0	0.0	0.0	0.0	121	0.0
+AOTHER_SUBTYPE	italy	smoothed	0.0	0.0	0.0	0.0	0.0	121	0.0
+AOTHER_SUBTYPE	japan	original	0.0	0.0	0.0	0.0	0.0	121	0.0
+AOTHER_SUBTYPE	japan	smoothed	0.0	0.0	0.0	0.0	0.0	121	0.0
+AOTHER_SUBTYPE	kenya	original	0.0	0.0	0.0	0.0	0.0	121	0.0
+AOTHER_SUBTYPE	kenya	smoothed	0.0	0.0	0.0	0.0	0.0	121	0.0
+AOTHER_SUBTYPE	korea	original	0.0	0.0	0.0	0.0	0.0	121	0.0
+AOTHER_SUBTYPE	korea	smoothed	0.0	0.0	0.0	0.0	0.0	121	0.0
+AOTHER_SUBTYPE	lebanon	original	0.024793388429752067	0.27159796239925593	0.0	3.0	0.0011380571738246847	121	0.0
+AOTHER_SUBTYPE	lebanon	smoothed	0.020626363636363634	0.11103913783991391	0.0	0.8999999999999999	0.0009691552635144285	121	0.160558824559342
+AOTHER_SUBTYPE	malaysia	original	0.0	0.0	0.0	0.0	0.0	121	0.0
+AOTHER_SUBTYPE	malaysia	smoothed	0.0	0.0	0.0	0.0	0.0	121	0.0
+AOTHER_SUBTYPE	mexico	original	0.0	0.0	0.0	0.0	0.0	121	0.0
+AOTHER_SUBTYPE	mexico	smoothed	0.0	0.0	0.0	0.0	0.0	121	0.0
+AOTHER_SUBTYPE	oman	original	0.0	0.0	0.0	0.0	0.0	121	0.0
+AOTHER_SUBTYPE	oman	smoothed	0.0	0.0	0.0	0.0	0.0	121	0.0
+AOTHER_SUBTYPE	pakistan	original	0.0	0.0	0.0	0.0	0.0	121	0.0
+AOTHER_SUBTYPE	pakistan	smoothed	0.0	0.0	0.0	0.0	0.0	121	0.0
+AOTHER_SUBTYPE	panama	original	0.0	0.0	0.0	0.0	0.0	121	0.0
+AOTHER_SUBTYPE	panama	smoothed	0.0	0.0	0.0	0.0	0.0	121	0.0
+AOTHER_SUBTYPE	paraguay	original	0.0	0.0	0.0	0.0	0.0	121	0.0
+AOTHER_SUBTYPE	paraguay	smoothed	0.0	0.0	0.0	0.0	0.0	121	0.0
+AOTHER_SUBTYPE	peru	original	0.0	0.0	0.0	0.0	0.0	121	0.0
+AOTHER_SUBTYPE	peru	smoothed	0.0	0.0	0.0	0.0	0.0	121	0.0
+AOTHER_SUBTYPE	philippines	original	0.0	0.0	0.0	0.0	0.0	121	0.0
+AOTHER_SUBTYPE	philippines	smoothed	0.0	0.0	0.0	0.0	0.0	121	0.0
+AOTHER_SUBTYPE	poland	original	0.0	0.0	0.0	0.0	0.0	121	0.0
+AOTHER_SUBTYPE	poland	smoothed	0.0	0.0	0.0	0.0	0.0	121	0.0
+AOTHER_SUBTYPE	russian federation	original	0.0	0.0	0.0	0.0	0.0	121	0.0
+AOTHER_SUBTYPE	russian federation	smoothed	0.0	0.0	0.0	0.0	0.0	121	0.0
+AOTHER_SUBTYPE	senegal	original	0.0	0.0	0.0	0.0	0.0	121	0.0
+AOTHER_SUBTYPE	senegal	smoothed	0.0	0.0	0.0	0.0	0.0	121	0.0
+AOTHER_SUBTYPE	singapore	original	0.0	0.0	0.0	0.0	0.0	121	0.0
+AOTHER_SUBTYPE	singapore	smoothed	0.0	0.0	0.0	0.0	0.0	121	0.0
+AOTHER_SUBTYPE	south africa	original	0.0	0.0	0.0	0.0	0.0	121	0.0
+AOTHER_SUBTYPE	south africa	smoothed	0.0	0.0	0.0	0.0	0.0	121	0.0
+AOTHER_SUBTYPE	south georgia and the south sandwich islands	original	0.0	0.0	0.0	0.0	0.0	121	0.0
+AOTHER_SUBTYPE	south georgia and the south sandwich islands	smoothed	0.0	0.0	0.0	0.0	0.0	121	0.0
+AOTHER_SUBTYPE	spain	original	0.0	0.0	0.0	0.0	0.0	121	0.0
+AOTHER_SUBTYPE	spain	smoothed	0.0	0.0	0.0	0.0	0.0	121	0.0
+AOTHER_SUBTYPE	sweden	original	0.0	0.0	0.0	0.0	0.0	121	0.0
+AOTHER_SUBTYPE	sweden	smoothed	0.0	0.0	0.0	0.0	0.0	121	0.0
+AOTHER_SUBTYPE	uganda	original	0.0	0.0	0.0	0.0	0.0	121	0.0
+AOTHER_SUBTYPE	uganda	smoothed	0.0	0.0	0.0	0.0	0.0	121	0.0
+AOTHER_SUBTYPE	united states	original	0.0	0.0	0.0	0.0	0.0	121	0.0
+AOTHER_SUBTYPE	united states	smoothed	0.0	0.0	0.0	0.0	0.0	121	0.0
+AOTHER_SUBTYPE	uruguay	original	0.0	0.0	0.0	0.0	0.0	121	0.0
+AOTHER_SUBTYPE	uruguay	smoothed	0.0	0.0	0.0	0.0	0.0	121	0.0
+AOTHER_SUBTYPE	uzbekistan	original	0.0	0.0	0.0	0.0	0.0	121	0.0
+AOTHER_SUBTYPE	uzbekistan	smoothed	0.0	0.0	0.0	0.0	0.0	121	0.0
+AOTHER_SUBTYPE	vietnam	original	0.004132231404958678	0.045266327066542655	0.0	0.5	0.0001490312965722801	121	0.0
+AOTHER_SUBTYPE	vietnam	smoothed	0.0041226185738021705	0.018644320752513384	0.0	0.15	0.0001564354446364809	121	0.02662200631402927

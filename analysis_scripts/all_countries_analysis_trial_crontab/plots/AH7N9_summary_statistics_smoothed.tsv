@@ -1,0 +1,9 @@
+subtype	country	data_type	mean_weighted_location	std_weighted_location	min_weighted_location	max_weighted_location	trend_slope	data_points	smoothing_effect
+AH7N9	canada	original	0.0	0.0	0.0	0.0	0.0	121	0.0
+AH7N9	canada	smoothed	0.0	0.0	0.0	0.0	0.0	121	0.0
+AH7N9	china	original	0.0065461076938569005	0.047288791636742246	0.0	0.5	-0.0002708012426742737	121	0.0
+AH7N9	china	smoothed	0.006546107693856884	0.020344490593904325	0.0	0.15	-0.0002582813645712682	121	0.02694430104283792
+AH7N9	malaysia	original	0.0	0.0	0.0	0.0	0.0	121	0.0
+AH7N9	malaysia	smoothed	0.0	0.0	0.0	0.0	0.0	121	0.0
+AH7N9	unknown	original	0.0	0.0	0.0	0.0	0.0	121	0.0
+AH7N9	unknown	smoothed	0.0	0.0	0.0	0.0	0.0	121	0.0
