@@ -45,7 +45,7 @@ INSTRUCTIONS:
 
     - ALPHA SMOOTHING:
 	- Coefficient is generalized with a value of 0.3 -> ".ewm(alpha=0.3, adjust=False)".
-	- Dynamic alpha smoothing (0.3 and 0.5) is omitted from the script (used as a special 		treatment after the outliers are filtered out. 
+	- Dynamic alpha smoothing (0.3 and 0.5) is omitted from the script.
 
 'weighted_location_plotter_smoothed.py' 
     - Read the output files (in '.tsv' based on the different subtypes) - load and validate the data
